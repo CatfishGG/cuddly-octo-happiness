@@ -1,0 +1,15 @@
+/workspaces/cuddly-octo-happiness/c#/bin/Debug/net8.0/c#
+/workspaces/cuddly-octo-happiness/c#/bin/Debug/net8.0/c#.deps.json
+/workspaces/cuddly-octo-happiness/c#/bin/Debug/net8.0/c#.runtimeconfig.json
+/workspaces/cuddly-octo-happiness/c#/bin/Debug/net8.0/c#.dll
+/workspaces/cuddly-octo-happiness/c#/bin/Debug/net8.0/c#.pdb
+/workspaces/cuddly-octo-happiness/c#/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cuddly-octo-happiness/c#/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/workspaces/cuddly-octo-happiness/c#/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/workspaces/cuddly-octo-happiness/c#/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/workspaces/cuddly-octo-happiness/c#/obj/Debug/net8.0/c#.sourcelink.json
+/workspaces/cuddly-octo-happiness/c#/obj/Debug/net8.0/c#.dll
+/workspaces/cuddly-octo-happiness/c#/obj/Debug/net8.0/refint/c#.dll
+/workspaces/cuddly-octo-happiness/c#/obj/Debug/net8.0/c#.pdb
+/workspaces/cuddly-octo-happiness/c#/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/workspaces/cuddly-octo-happiness/c#/obj/Debug/net8.0/ref/c#.dll
